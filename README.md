@@ -9,4 +9,4 @@ Code from https://www.youtube.com/watch?v=5F0EvajMlXo
 
 ## Live page
 
-https://darrenxu94.github.io/splitScreenSlider/
+https://darrenxu94.github.io/splitscreen-slider/
